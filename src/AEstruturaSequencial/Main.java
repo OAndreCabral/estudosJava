@@ -1,4 +1,4 @@
-package EstruturaSequencial;
+package AEstruturaSequencial;
 
 import java.util.Locale;
 import java.util.Scanner;
