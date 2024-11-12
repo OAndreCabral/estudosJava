@@ -1,4 +1,4 @@
-package CBExercicioVetores;
+package Seção10.DBListas.CBExercicioVetores;
 
 import java.util.Scanner;
 
@@ -31,8 +31,8 @@ public class Main {
             System.out.print("Quarto:");
             int numeroQuarto = tecladoUsuario.nextInt();
 
-//            Aluguel numeroAluguel = new Aluguel(name, email);
-//            array[numeroQuarto] = numeroAluguel;
+//          Aluguel numeroAluguel = new Aluguel(name, email);
+//          array[numeroQuarto] = numeroAluguel;
 
             array[numeroQuarto] = new Aluguel(name, email);
         }

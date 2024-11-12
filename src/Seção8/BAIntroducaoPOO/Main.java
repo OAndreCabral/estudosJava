@@ -1,4 +1,4 @@
-package BAIntroducaoPOO;
+package Seção8.BAIntroducaoPOO;
 
 import java.util.Locale;
 import java.util.Scanner;

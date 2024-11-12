@@ -1,4 +1,4 @@
-package BAIntroducaoPOO;
+package Seção8.BAIntroducaoPOO;
 
 public class Product {
 

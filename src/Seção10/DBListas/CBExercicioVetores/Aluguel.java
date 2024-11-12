@@ -1,4 +1,4 @@
-package CBExercicioVetores;
+package Seção10.DBListas.CBExercicioVetores;
 
 public class Aluguel {
     private String nome;

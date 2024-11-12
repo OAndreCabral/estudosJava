@@ -1,4 +1,4 @@
-package CAExercicioVetores;
+package Seção10.DBListas.CAExercicioVetores;
 
 import java.util.Scanner;
 

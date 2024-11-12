@@ -1,4 +1,4 @@
-package BExercicio2POO;
+package Seção8.BAIntroducaoPOO.BExercicio2POO;
 
 import java.util.Locale;
 import java.util.Scanner;

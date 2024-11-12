@@ -1,6 +1,5 @@
-package BExercicio1POO;
+package Seção8.BAIntroducaoPOO.BExercicio1POO;
 
-import java.awt.geom.Area;
 import java.util.Locale;
 import java.util.Scanner;
 

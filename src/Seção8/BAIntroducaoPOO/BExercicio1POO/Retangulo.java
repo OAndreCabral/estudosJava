@@ -1,4 +1,4 @@
-package BExercicio1POO;
+package Seção8.BAIntroducaoPOO.BExercicio1POO;
 
 public class Retangulo {
     public double width;
